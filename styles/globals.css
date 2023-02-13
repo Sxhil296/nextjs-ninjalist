@@ -36,3 +36,11 @@ footer{
   color: #777;
   border-top: 1px solid #eaeaea;
 }
+
+.not-fount{
+  text-align: center;
+}
+.not-fount a {
+  color: #4979ff;
+  text-decoration: underline;
+}
